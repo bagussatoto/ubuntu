@@ -92,12 +92,12 @@ export class AboutNiclas extends Component {
                     <span className="ml-1 md:ml-2 text-gray-50 text-lg">Skills</span>
                 </div>
                 <div id="projects" tabIndex="0" onFocus={this.changeScreen} className={(this.state.active_screen === "projects" ? "bg-orange-800 bg-opacity-100 hover:bg-opacity-95" : " hover:bg-gray-50 hover:bg-opacity-5 ") + " w-28 h-12 md:w-full md:rounded-none rounded-sm cursor-default outline-none py-1.5 focus:outline-none duration-100 my-0.5 flex justify-start items-center pl-2 md:pl-2.5"}>
-                    <img className="w-5 md:w-5" alt="nicholas's projects" src="https://img.icons8.com/color/344/project.png" />
+                    <img className="w-5 md:w-5" alt="bagus's projects" src="https://img.icons8.com/color/344/project.png" />
                     <span className="ml-1 md:ml-2 text-gray-50 text-lg">Projects</span>
                 </div>
                 <div className='my-0.5 my-4 w-28 md:w-full h-8 px-2 md:px-2.5 flex justify-center items-center'>
                     <a class="flex justify-center items-center gap-1.5 w-4/5 bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full" href="https://github.com/niclaskato/ubuntu-portfolio" target="_blank">
-                      Star <img className="w-5 md:w-5" alt="nicholas's projects" src="https://img.icons8.com/officel/512/star.png" />
+                      Star <img className="w-5 md:w-5" alt="bagus's projects" src="https://img.icons8.com/officel/512/star.png" />
                     </a>
                 </div>
                 {/* <div className='my-0.5 w-28 md:w-full h-8 px-2 md:px-2.5 flex' >
@@ -139,10 +139,10 @@ function About() {
     return (
         <>
             <div className="w-28 md:w-32 mt-8 bg-white rounded-full">
-                <img className="w-full rounded-circle border-2" src="./images/logos/niclasmoji.png" alt="Nicholas Kato Logo" />
+                <img className="w-full rounded-circle border-2" src="./images/logos/niclasmoji.png" alt="Bagus Kato Logo" />
             </div>
             <div className="mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>My name is <span className="font-bold">Nicholas Kato</span> ,</div>
+                <div>My name is <span className="font-bold">Bagus Budi Satoto</span> ,</div>
                 <div className="font-normal ml-1">I'm a <span className="text-orange-500 font-bold">Senior Full Stack Developer!</span></div>
             </div>
             <ul className="mt-4 leading-tight tracking-tight text-sm md:text-base w-full md:w-5/6 emoji-list">
@@ -152,7 +152,7 @@ function About() {
                     <br />( Mail me up <a className='text-pink-600 font-bold' href='mailto:niclas.kato92@gmail.com'> @niclas.kato92@gmail.com </a> )
                 </li>
                 <li className="mt-3 list-building text-xl font-sans"> I love building <span className="text-pink-600 font-bold">awesome websites and products</span> that need wonderful services.</li>
-                <li className="mt-3 list-time text-xl font-sans"> When I am free, I like to spend my time reading books, playing games or writing <a className="text-pink-600 font-bold" href="https://medium.com/@nicholas-blog" target="_blank"> some blogs.</a></li>
+                <li className="mt-3 list-time text-xl font-sans"> When I am free, I like to spend my time reading books, playing games or writing <a className="text-pink-600 font-bold" href="https://medium.com/@bagusbudi1308" target="_blank"> some blogs.</a></li>
             </ul>
             <br />
         </>
@@ -185,10 +185,10 @@ function Skills() {
             <div className="w-full md:w-10/12 flex justify-center items-start font-bold text-center">
                 <div className="px-4 w-1/2">
                     <div className="flex flex-wrap justify-center items-start w-full mt-2">
-                        <img className="m-1" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="nicholas javascript" />
-                        <img className="m-1" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="nicholas typescript" />
+                        <img className="m-1" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="bagus javascript" />
+                        <img className="m-1" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="bagus typescript" />
                         <img className="m-1" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="nicholas CSS3" />
-                        <img title="yes it's a language!" className="m-1" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="nicholas HTML5" />
+                        <img title="yes it's a language!" className="m-1" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="bagus HTML5" />
                         <img className="m-1" src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="nicholas python" />
                         <img className="m-1" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="nicholas PHP" />
                         <img className="m-1" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="nicholas mysql" />
