@@ -16,7 +16,7 @@ function BootingScreen(props) {
                     <img width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />
                 </a>
                 <span className="font-bold mx-1 mt-2">|</span>
-                <a href="https://github.com/niclaskato/" rel="noreferrer noopener" target="_blank">
+                <a href="https://github.com/bagussatoto/" rel="noreferrer noopener" target="_blank">
                     <img width="40px" src="https://img.icons8.com/color/344/github.png" />
                 </a>
             </div>
