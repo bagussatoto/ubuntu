@@ -2,7 +2,7 @@
   "name": "niclas-ubuntu-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "hhttps://bagussatoto.github.io/ubuntu//",
+  "homepage": "https://bagussatoto.github.io/ubuntu/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
