@@ -143,13 +143,13 @@ function About() {
             </div>
             <div className="mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
                 <div>My name is <span className="font-bold">Bagus Budi Satoto</span> ,</div>
-                <div className="font-normal ml-1">I'm a <span className="text-orange-500 font-bold">Senior Full Stack Developer!</span></div>
+                <div className="font-normal ml-1">I'm a <span className="text-orange-500 font-bold">Junior Full Stack Developer!</span></div>
             </div>
             <ul className="mt-4 leading-tight tracking-tight text-sm md:text-base w-full md:w-5/6 emoji-list">
                 <li className="list-pc text-xl font-sans">
                     I'm a a skilled and motivated <span className="text-pink-600 font-bold">Front-end & Back-end developer</span> currently pursuing <span className="font-bold text-pink-600">Artificial Intelligence and Bots</span> for the modern web development.
                     <br />I've already developed a dozens of websites with <span className="text-pink-600 font-bold">React, Vue, Node, and Python</span> and now I'm looking for a remote opportunity of full time or part time from IT companies!
-                    <br />( Mail me up <a className='text-pink-600 font-bold' href='mailto:niclas.kato92@gmail.com'> @niclas.kato92@gmail.com </a> )
+                    <br />( Mail me up <a className='text-pink-600 font-bold' href='mailto:bagusbudi1308@gmail.com'> @bagusbudi1308@gmail.com </a> )
                 </li>
                 <li className="mt-3 list-building text-xl font-sans"> I love building <span className="text-pink-600 font-bold">awesome websites and products</span> that need wonderful services.</li>
                 <li className="mt-3 list-time text-xl font-sans"> When I am free, I like to spend my time reading books, playing games or writing <a className="text-pink-600 font-bold" href="https://medium.com/@bagusbudi1308" target="_blank"> some blogs.</a></li>
