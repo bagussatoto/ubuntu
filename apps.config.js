@@ -30,7 +30,7 @@ const apps = [
         screen: displayTerminalCalc,
     },
     {
-        id: "about-bagus",
+        id: "about-niclas",
         title: "About bagus",
         icon: './themes/Yaru/system/user-home.png',
         disabled: false,
